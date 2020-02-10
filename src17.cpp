@@ -1,3 +1,6 @@
+// Dynamic Memory allocation 
+// DMA using malloc()
+
 #include <stdio.h>
 #include <stdlib.h>
 
