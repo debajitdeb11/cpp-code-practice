@@ -15,3 +15,40 @@ Here, the number of base classes will be separated by a comma
 (‘, ‘) and access mode for every base class must be specified.
 
 */
+
+// Program 1
+
+#include <iostream>
+using namespace std;
+
+
+// First base Class
+class Vehicle {
+	public:
+		Vehicle(){
+			cout << "This is a Vehicle" << endl;
+		}
+};
+
+
+// Second base Class
+class FourWheel{
+	public:
+		FourWheel(){
+			cout << "It has 4 Wheels" << endl;
+		}
+};
+
+
+// sub Class derived from two base class
+class Car : public Vehicle, public FourWheel {
+
+};
+
+
+// main function
+int main(){
+
+	Car obj;
+	return 0;
+}
