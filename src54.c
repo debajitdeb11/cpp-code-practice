@@ -87,3 +87,6 @@ int main(){
 
     return 0;
 }
+
+
+// Time complexity of insertAfter() is O(1) as it does constant amount of work.
