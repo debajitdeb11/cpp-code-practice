@@ -1,5 +1,3 @@
-// Simple Program to Execute Insertion & Deletion to a LinkedList
-
 #include <iostream>
 #include <string.h>
 using namespace std;
@@ -74,39 +72,33 @@ void printContent(){
 }
 
 // This will delete the specific node 
-void deleteNode(Node** head_ref, int position){
+void deleteNode(Node** head_ref, int key){
 
-    // If the linkedList is empty
-    if(*head_ref == NULL){
+    // Store head node
+    Node* temp = *head_ref, *prev;
+
+    // If head node itself holds the key to be deleted 
+    if(temp != NULL &&  temp->data == key){
+        *head_ref = temp->next;         // Changed Head
+        free(temp);                     // free old head
         return;
     }
 
-    Node* temp = *head_ref;
-
-    // If head needs to be removed
-    if(position == 0){
-        *head_ref = temp->next;
-        free(temp);
-        return;
-    }
-
-    // Find the previous node to be deleted
-    for(int i = 0; temp != NULL && i < position-1 ; i++){
+    // Search for the key to be deleted, keep track of the 
+    // previous node as we need to change 'prev->next' 
+    while (temp != NULL && temp->data != key){
+        prev = temp;
         temp = temp->next;
     }
 
-    // If the position is more than the No. of Nodes
-    if(temp == NULL || temp->next == NULL){
-        return;
-    }
+    // If key was not present in linked list 
+    if (temp == NULL) return; 
+  
+    // Unlink the node from linked list 
+    prev->next = temp->next; 
+  
+    free(temp);  // Free memory 
 
-    // Node temp->next is the node to be deleted 
-    // Store pointer to the next of node to be deleted 
-    Node* next = temp->next->next;
-
-    free(temp ->next);      //Free Memory
-
-    temp->next = next;
 
 }
 
