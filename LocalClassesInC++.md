@@ -1,4 +1,4 @@
-# 1) Local Classes in C++
+# Local Classes in C++
 
 A class declared inside a function becomes local to that function and is called Local Class in C++. For example, in the following program, Test is a local class in fun().
 
@@ -19,9 +19,9 @@ int main()
 return 0;
 }
 ```
-### Following are some interesting facts about local classes.
+## Following are some interesting facts about local classes.
 
-1) A local class type name can only be used in the enclosing function. For example, in the following program, declarations of t and tp are valid in fun(), but invalid in main().
+### 1) A local class type name can only be used in the enclosing function. For example, in the following program, declarations of t and tp are valid in fun(), but invalid in main().
 
 ```
 #include<iostream> 
