@@ -1,32 +1,25 @@
+// File Handling
+
 #include <iostream>
+#include <fstream>
 using namespace std;
 
-class B;
+int main(int argc, char const *argv[])
+{   
+    // Creation of ofstream class object
+    ofstream fout;
 
-class A{
-    public:
-        void showB(B&);
-};
+    string line;
 
-class B{
-    private:
-        int b;
-    
-    public:
-        B() {b = 0;}
-        friend void A::showB(B& x);     // Friend Function
-};
+    // by default ios::out mode, automatically deletes 
+    // the content of file. To append the content, open in ios:app 
+    // fout.open("sample.txt", ios::app) 
 
-void A::showB(B& x){ 
-    // Since showB() is friend of B, it can 
-    // access private members of B 
-    std::cout << "B::b = " << x.b; 
-} 
+    fout.open("sample.txt");
 
-int main() 
-{ 
-    A a; 
-    B x; 
-    a.showB(x); 
-    return 0; 
+    while(fout){
+        getline(cin, line);
+    }
+
+    return 0;
 }
