@@ -1,0 +1,3071 @@
+    1  clea
+    2  clear
+    3  .zshrc
+    4  gedit .zshrc
+    5  source ~/.zshrc
+    6  gedit .zshrc
+    7  source ~/.zshrc
+    8  clear
+    9  exit
+   10  ls
+   11  sudo apt-get install fortune-mod
+   12  clear
+   13  v
+   14  robo3t
+   15  clear
+   16  ls
+   17  clear
+   18  ls
+   19  cd codes
+   20  ls
+   21  cd cpp-code-practice
+   22  ls
+   23  clar
+   24  clear
+   25  ls
+   26  code .
+   27  lls
+   28  ls
+   29  cd Downloads
+   30  ls
+   31  ./xampp-linux-x64-7.4.5-0-installer.run
+   32  sudo ./xampp-linux-x64-7.4.5-0-installer.run
+   33  clear
+   34  cd Downloads
+   35  ls
+   36  chmod +x xampp-linux-x64-7.4.5-0-installer.run
+   37  ls
+   38  ./xampp-linux-x64-7.4.5-0-installer.run
+   39  sudo ./xampp-linux-x64-7.4.5-0-installer.run
+   40  vim .zshrc
+   41  cd
+   42  gedit .zshrc
+   43  source ~/.zshrc
+   44  clear
+   45  xit
+   46  exit
+   47  ls
+   48  clear
+   49  exit
+   50  clear
+   51  exit
+   52  vim .bashrc
+   53  vim .zshrc
+   54  clar
+   55  clear
+   56  source ~/.zshrc
+   57  clear
+   58  exit
+   59  vim .zshrc
+   60  clear
+   61  xampp
+   62  start xampp
+   63  xampp start
+   64  sudo xampp start
+   65  xampp start
+   66  sudo -s
+   67  xampp
+   68  exit
+   69  ls
+   70  clear
+   71  vim .zshrc
+   72  source ~/.zshrc
+   73  clear
+   74  exit
+   75  clear
+   76  lls
+   77  ls
+   78  clea
+   79  clear
+   80  exit
+   81  ls
+   82  cd Projects
+   83  ls
+   84  cd t-store
+   85  ls
+   86  clear
+   87  ls
+   88  cd projbackend
+   89  ls
+   90  clear
+   91  code .
+   92  npm start
+   93  sudo service mongod start
+   94  robo3t
+   95  bash
+   96  perl
+   97  clear
+   98  perl -v
+   99  clear
+  100  git add .
+  101  git commit -am "Product Route added! "
+  102  git config --global user.email "debajitdeb11@gmail.com"
+  103  git config --global user.name "debajitdeb11"
+  104  git commit -am "Product Route added! "
+  105  git push
+  106  exit
+  107  sudo apt update
+  108  sudo apt upgrade
+  109  sudo apt-get update
+  110  sudo apt-get upgrade
+  111  clear
+  112  vim .zshrc
+  113  ls
+  114  cd robo3t-1.3.1-linux-x86_64-7419c406
+  115  ls
+  116  cd bin
+  117  ls
+  118  clear
+  119  pwd
+  120  ls
+  121  clear
+  122  source ~/.zshrc
+  123  exit
+  124  clear
+  125  exit
+  126  ls
+  127  chmod +x mysql-apt-config_0.8.15-1_all.deb
+  128  sudo dpkg -i mysql-apt-config_0.8.15-1_all.deb
+  129  clear
+  130  sudo apt-get update
+  131  sudo apt-get upgrade
+  132  sudo apt update
+  133  sudo apt upgrade
+  134  clear
+  135  exit
+  136  ls
+  137  exit
+  138  ls
+  139  clear
+  140  exit
+  141  dmesg | grep -i bluetooth # Shows all Bluetooth driver info
+  142  dmesg | grep -i bluetooth | grep -i firmware # Shows Bluetooth firmware issues
+  143  ls
+  144  git clone git@github.com:winterheart/broadcom-bt-firmware.git
+  145  cd broadcom-bt-firmware
+  146  ls
+  147  cd brcm
+  148  ls
+  149  clear
+  150  ls
+  151  cd /lib/firmware/brcm
+  152  ls
+  153  cd
+  154  cd Desktop
+  155  ls
+  156  mv BCM43142A0-0a5c-21d7.hcd /lib/firmware/brcm
+  157  sudo mv BCM43142A0-0a5c-21d7.hcd /lib/firmware/brcm
+  158  exit
+  159  git init
+  160  echo "Getting start with cp" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin git@github.com:debajitdeb11/cp.git\ngit push -u origin master
+  161  clear
+  162  exit
+  163  ls
+  164  clea
+  165  code .
+  166  clear
+  167  ls
+  168  cd Fast_Exponentation
+  169  ls
+  170  clear
+  171  ls
+  172  c++ nor_expn.cpp
+  173  ls
+  174  ./a.out
+  175  9 6
+  176  ./a.out
+  177  2 0
+  178  ./a.out
+  179  clear
+  180  ls
+  181  cd .
+  182  cd ..
+  183  ls
+  184  echo ".vscode
+  185  echo ".vscode" >> .gitignore
+  186  git status
+  187  git add .gitignore
+  188  git commit -am ".gitignore added! "
+  189  git push
+  190  ls
+  191  g++ Fast_Exponentation/fast_expn.cpp
+  192  ls
+  193  ./a.out
+  194  clear
+  195  ./a.out
+  196  ls
+  197  cd Fast_Exponentation
+  198  ls
+  199  g++ modular_expn.cpp
+  200  ./a.out
+  201  clear
+  202  ls
+  203  cd ..
+  204  ls
+  205  clear
+  206  git add .
+  207  git commit -am "Fast Exponentation"
+  208  git push
+  209  clear
+  210  ls
+  211  mkdir Catalan_Num
+  212  cd Catalan_Num
+  213  ls
+  214  clear
+  215  ls
+  216  touch Catalan_recc
+  217  ls
+  218  g++ Catalan_recc.cpp
+  219  ./a.out
+  220  valgrind
+  221  bash
+  222  clear
+  223  valgrind ./a.out
+  224  clear
+  225  valgrind
+  226  valgrind a.out
+  227  valgrind /a.out
+  228  valgrind ./a.out
+  229  libc6-dbg
+  230  bash
+  231  libc6-dbg
+  232  exit
+  233  ls
+  234  cd Catalan_Num
+  235  ls
+  236  clear
+  237  ls
+  238  ./a.out
+  239  ls
+  240  zsh
+  241  clear
+  242  zsh
+  243  ls
+  244  g++ Catalan_fact.cpp
+  245  ls
+  246  g++ catalan_fact.cpp
+  247  ./a.out
+  248  g++ catalan_fact.cpp
+  249  ./a.out
+  250  g++ catalan_fact.cpp
+  251  10
+  252  g++ catalan_fact.cpp
+  253  10
+  254  ./a.out
+  255  g++ catalan_fact.cpp
+  256  ./a.out
+  257  valgrind ./a.out
+  258  sudo remove valgrind
+  259  snap remove valgrind --classic
+  260  snap remove valgrind
+  261  clear
+  262  bash
+  263  exit
+  264  gcc -v
+  265  sudo apt-get install build-essential gdb
+  266  gcc
+  267  g
+  268  g++
+  269  ls
+  270  cd Documents
+  271  ls
+  272  cd cpp
+  273  cd cp
+  274  ls
+  275  clear
+  276  vim helloWorld.cpp
+  277  ls
+  278  clear
+  279  /home/debajit/Documents/cp/helloWorld.cpp
+  280  clear
+  281  ls
+  282  g++ catalan_fact.cpp
+  283  ./a.out
+  284  clear
+  285  ls
+  286  rm a.out
+  287  g++ -g catalan_fact.cpp
+  288  ls
+  289  /home/debajit/Documents/cp/Catalan_Num/catalan_fact.cpp
+  290  clear
+  291  valgrind
+  292  snap install valgrind
+  293  snap install valgrind --classic
+  294  valgrind
+  295  ls
+  296  cd Catalan_Num
+  297  ls
+  298  clear
+  299  ls
+  300  g++ catalan_fact
+  301  g++ catalan_fact.cpp
+  302  ls
+  303  valgrind ./a.out
+  304  sudo apt install libc6-dbg
+  305  ld-linux-x86-64.so.2
+  306  bash
+  307  ls
+  308  valfrind
+  309  valgrind
+  310  valgrind --help
+  311  snap remove valgrind
+  312  sudo apt install valgrind
+  313  ls
+  314  cd Catalan_Num
+  315  ls
+  316  g++ Catalan_
+  317  g++ Catalan_recc.cpp
+  318  ls
+  319  sudo apt install valgrind
+  320  ls
+  321  clear
+  322  exit
+  323  ls
+  324  cd Documents
+  325  ls
+  326  cd cp
+  327  ls
+  328  code .
+  329  git status
+  330  ls
+  331  cd Catalan_Num
+  332  ls
+  333  g++ Catalan_DynProg.cpp
+  334  ./a.out
+  335  clear
+  336  ls
+  337  cd ..
+  338  ls
+  339  cd ..
+  340  ls
+  341  cd cp
+  342  ls
+  343  git add .
+  344  git commit -am "Catalan Number Added"
+  345  git push
+  346  ls
+  347  mkdir Linear_Recurrence
+  348  ls
+  349  cd Linear_Recurrence
+  350  ls
+  351  touch Fibonacci_seq_modulo.cpp
+  352  ls
+  353  cd codes
+  354  ls
+  355  cd cpp-code-practice
+  356  ls
+  357  code .
+  358  grep -i "Matrix" *
+  359  grep -r "Matrix" *
+  360  grep -r "matrix" *
+  361  grep -r "matrices" *
+  362  grep -r "matrice" *
+  363  grep -r "STL" *
+  364  grep -r "matrice" *
+  365  clear
+  366  ls
+  367  clear
+  368  ls
+  369  mkdir matrices
+  370  clear
+  371  cd matrices
+  372  ls
+  373  touch src1.cpp
+  374  code src1.cpp
+  375  ls
+  376  g++ src1.cpp
+  377  ./a.out
+  378  ls
+  379  clear
+  380  ls
+  381  cd ..
+  382  ls
+  383  mkdir Array
+  384  cd Array
+  385  ls
+  386  pwd
+  387  touch arr1.cpp
+  388  ls
+  389  g++ arr1.cpp
+  390  ./a.out
+  391  g++ arr1.cpp
+  392  ./a.out
+  393  git init
+  394  clear
+  395  code .
+  396  mkdir Array
+  397  curl --
+  398  curl --help
+  399  curl http://www.openuniversity.edu/sites/www.openuniversity.edu/files/brochures/OU_Undergraduate_Brochure_2021.pdf
+  400  curl http://www.openuniversity.edu/sites/www.openuniversity.edu/files/brochures/OU_Undergraduate_Brochure_2021.pdf --output prospectus.pdf
+  401  cd
+  402  ls
+  403  clear
+  404  sudo snap install intellij-idea-community --classic
+  405  ls
+  406  cd out
+  407  ls
+  408  cd production/JavaBasics
+  409  ls
+  410  java arr
+  411  clear
+  412  ls
+  413  cd IdeaProjects
+  414  ls
+  415  cd JavaBasics
+  416  ls
+  417  clear
+  418  ls
+  419  cd src
+  420  ls
+  421  clear
+  422  cd
+  423  clear
+  424  ls
+  425  clear
+  426  ls
+  427  cd Des
+  428  cd Desktop
+  429  ls
+  430  java arr
+  431  java arr.java
+  432  javac arr.java
+  433  clear
+  434  exit
+  435  ls
+  436  clear
+  437  ls
+  438  cd ArrayRotation
+  439  ls
+  440  g++ arrRot1.cpp
+  441  ls
+  442  ./a.out
+  443  ls
+  444  g++ arrRot1.cpp
+  445  ./a.out
+  446  g++ arrRot1.cpp
+  447  ./a.out
+  448  clear
+  449  ls
+  450  g++ arrRot1.cpp
+  451  ./a.out
+  452  g++ arrRot1.cpp
+  453  ./a.out
+  454  g++ arrRot1.cpp
+  455  ./a.out
+  456  g++ arrRot1.cpp
+  457  ./a.out
+  458  g++ arrRot2.cpp
+  459  ./a.out
+  460  valgrind ./a.out
+  461  sudo apt install valgrind
+  462  g++ arrRot2.cpp
+  463  ls
+  464  cd Array
+  465  ls
+  466  cd ArrayRotation
+  467  ls
+  468  g++ arrRot2.cpp
+  469  ./a.out
+  470  ls
+  471  cd Array
+  472  ls
+  473  cd ArrayRotation
+  474  ls
+  475  g++ arrRot2.cpp
+  476  ./a.out
+  477  g++ arrRot2.cpp
+  478  g++ arrRot2.cpp env /bin/sh /tmp/Microsoft-MIEngine-Cmd-1386vlil.s75
+  479  ls
+  480  clear
+  481  ls
+  482  cd ..
+  483  ls
+  484  cd
+  485  cd codes
+  486  ls
+  487  cd cpp-code-practice
+  488  ls
+  489  clear
+  490  git status
+  491  git add .
+  492  git commit -am "Array DS Added"
+  493  git push
+  494  ls
+  495  clear
+  496  ls
+  497  exit
+  498  ls
+  499  cd codes
+  500  ls
+  501  cd
+  502  exit
+  503  ls
+  504  cd Projects
+  505  ls
+  506  cd t-store
+  507  ls
+  508  clear
+  509  ls
+  510  code .
+  511  sudo service mongod start
+  512  ls
+  513  robo3t
+  514  ls
+  515  cd projbackend
+  516  ls
+  517  npm start
+  518  sudo service mongod stop
+  519  exit
+  520  code .
+  521  pip
+  522  bash
+  523  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  524  ls
+  525  python get-pip.py
+  526  python3 get-pip.py
+  527  python2 get-pip.py
+  528  bash
+  529  ls
+  530  clear
+  531  pip
+  532  sexit
+  533  exit
+  534  ls
+  535  cd codes
+  536  ls
+  537  cd python-code-practice
+  538  ls
+  539  cd Basics
+  540  curl https://d3c33hcgiwev3.cloudfront.net/_62a42c7a6447d06e53ea5693a9685b69_StartPython.py\?Expires\=1590105600\&Signature\=GRHVn6ur8XE8K0MuXtmpXRLRYsv9Ecmcv0znJEAjOfv\~YwmsvrRO-b5sziDtY7LRZ6u8x9Hx1mUR9Dc83nRneTtSsvkK7woSLrzIQ6EJJN-xVDMXe8vCaA47rzfiA1\~O6DBuYAgVo4fegqeMEyeEk85osJPbKi6oPulUiM4wUmU_\&Key-Pair-Id\=APKAJLTNE6QMUY6HBC5A --output StartPython.py
+  541  ls
+  542  cd ..
+  543  ls
+  544  code .
+  545  curl https://d3c33hcgiwev3.cloudfront.net/_45fbbc0403774b83d6efdffd8bdf32b5_Exercises1.py\?Expires\=1590105600\&Signature\=I29o4XNbZXBdfslS-jG8Y3w7X6sPiKuzmtqkHv1k5mO\~p3saIENjqHSuRipsM0aUQ700FfhTlWMXO78\~33KL47M4fX3DrmShaWZ-XaYdA3AQDzmua36YzQxiC0w2\~JmVHX1Bsa5QIEfUlqYP98m9XjPAH218yr63FjzNC5SyJNE_\&Key-Pair-Id\=APKAJLTNE6QMUY6HBC5A --output exercise1.py
+  546  sudo apt update
+  547  sudo apt upgrade
+  548  clear
+  549  git init
+  550  clear
+  551  git satus
+  552  git status
+  553  exit
+  554  git status
+  555  exit
+  556  git status
+  557  exit
+  558  git status
+  559  git init
+  560  cleat
+  561  clear
+  562  ls
+  563  git status
+  564  exit
+  565  echo "# java-code-practice" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin git@github.com:debajitdeb11/java-code-practice.git\ngit push -u origin master
+  566  clear
+  567  ls
+  568  git status
+  569  git add Java/
+  570  cd Java
+  571  ls
+  572  git status
+  573  echo "# java-code-practice" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin git@github.com:debajitdeb11/java-code-practice.git\ngit push -u origin master
+  574  git status
+  575  git add JavaBasics/
+  576  git commit -am "Java basic programs added
+  577  git commit -am "Java basic programs added "
+  578  git push
+  579  git status
+  580  wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb\nsudo dpkg -i packages-microsoft-prod.deb
+  581  sudo apt-get update\nsudo apt-get install apt-transport-https\nsudo apt-get update\nsudo apt-get install dotnet-sdk-3.1
+  582  ls
+  583  cd ..
+  584  cd
+  585  sudo apt-get update\nsudo apt-get install apt-transport-https\nsudo apt-get update\nsudo apt-get install aspnetcore-runtime-3.1
+  586  sudo apt-get update\nsudo apt-get install apt-transport-https\nsudo apt-get update\nsudo apt-get install dotnet-runtime-3.1
+  587  clear
+  588  exit
+  589  gitnstatus
+  590  git status
+  591  git add .
+  592  clear
+  593  git commit -am "Conditional Statements Added! "
+  594  git push
+  595  exit
+  596  code .
+  597  cd "/home/debajit/.vscode/extensions/vscjava.vscode-maven-0.21.4/resources/maven-wrapper"
+  598  "/home/debajit/.vscode/extensions/vscjava.vscode-maven-0.21.4/resources/maven-wrapper/mvnw" org.apache.maven.plugins:maven-archetype-plugin:3.1.2:generate -DarchetypeArtifactId="maven-archetype-quickstart" -DarchetypeGroupId="org.apache.maven.archetypes" -DarchetypeVersion="1.4" -DoutputDirectory="/home/debajit/codes/java-code-practice"
+  599  exit
+  600  clear
+  601  ls
+  602  cd Projects
+  603  ls
+  604  git clone git@github.com:debajitdeb11/share-secret.git
+  605  clear
+  606  ls
+  607  nodemon pp.js
+  608  nodemon app.js
+  609  ls
+  610  code .
+  611  robo3t
+  612  mongo "mongodb+srv://cluster0-rbcob.gcp.mongodb.net/test" --username debajitdeb11\n
+  613  bash
+  614  exit
+  615  bash
+  616  cd
+  617  mongo "mongodb+srv://cluster0-rbcob.gcp.mongodb.net/test" --username debajitdeb11
+  618  mongo "mongodb+srv://cluster0-rbcob.gcp.mongodb.net/secret" --username debajitdeb11
+  619  ls
+  620  nodemon app.js
+  621  npm i
+  622  nodemon app.js
+  623  mongo "mongodb+srv://cluster0-rbcob.gcp.mongodb.net/secret" --username debajitdeb11
+  624  exit
+  625  nodemon app.js
+  626  mongo "mongodb+srv://cluster0-wpsqz.mongodb.net/test" --username debajit
+  627  npm start
+  628  nodemon app.js
+  629  npm install -g firebase-tools
+  630  sudo npm install -g firebase-tools
+  631  mkdir ~/npm-global
+  632  npm config set prefix ~/npm-global/
+  633  gedit ~/.profile
+  634  reset
+  635  npm install -g firebase-tools
+  636  firebase login
+  637  bash
+  638  firebase
+  639  firebase init
+  640  sudo chown -R owner.debajit /usr/local/lib/node_modules/
+  641  sudo chown -R owner.name /usr/local/lib/node_modules/
+  642  sudo chown -R owner.name /usr/local/bin/
+  643  sudo chown -R owner.debajit /usr/local/bin/
+  644  sudo chown -R owner.name /usr/local/bin/
+  645  sudo chown -R owner.name /usr/local/lib/node_modules/
+  646  sudo chown -R owner.debajit /usr/local/bin/
+  647  sudo chown -R owner.name /usr/local/lib/node_modules/
+  648  npm
+  649  npm install -g firebase-tools
+  650  sudo npm install -g firebase-tools
+  651  npm config set prefix '~/.npm-global'
+  652  gedit~/.profile
+  653  gedit ~/.profile
+  654  npm install -g firebase-tools
+  655  firebase
+  656  firebase login
+  657  firebase init
+  658  firebase deploy
+  659  sudo snap install --classic heroku\n
+  660  heroku login
+  661  heroku git:remote -a secret-share-app
+  662  git add .
+  663  git commit -am "Make it Better"
+  664  git push heroku master
+  665  heroku logs --tail
+  666  git add .
+  667  git commit -am "Make it Better"
+  668  git push heroku master
+  669  heroku logs --tail
+  670  git add .
+  671  git commit -am "Make it Better"
+  672  git push heroku master
+  673  heroku logs --tail
+  674  ls
+  675  code
+  676  code .
+  677  node app.js
+  678  ls
+  679  cd npm-global
+  680  l
+  681  ls
+  682  cd ..
+  683  ls
+  684  cd Projects
+  685  ls
+  686  cd share-secret
+  687  ls
+  688  code .
+  689  ls
+  690  npm i
+  691  nodemon app.js
+  692  ls
+  693  git add .
+  694  git commit -am "Few Files Fixed"
+  695  git push heroku msater
+  696  $ git push heroku master
+  697  heroku
+  698  heroku login
+  699  $ git push heroku master
+  700  git push heroku master
+  701  nodemon app.js
+  702  port
+  703  tcp
+  704  awk
+  705  aks
+  706  ask
+  707  arp
+  708  anp
+  709  arp
+  710  apr
+  711  arp
+  712  arp -a
+  713  nodemon app.js
+  714  git add .
+  715  git commit -am "Few Files Fixed v2"
+  716  git push heroku master
+  717  ls
+  718  nodemon app.js
+  719  heroku log --tails
+  720  heroku logs --tail
+  721  ls
+  722  mongo "mongodb+srv://cluster0-wpsqz.mongodb.net/test" --username debajit
+  723  ls
+  724  du -c
+  725  ls
+  726  cd Projects
+  727  ls
+  728  cd t-store
+  729  ls
+  730  du -c
+  731  clear
+  732  ls
+  733  cd ..
+  734  ls
+  735  cd share-secret
+  736  ls
+  737  du -c
+  738  ls ./node_modules/encodeurl
+  739  ls
+  740  cd views
+  741  ls
+  742  du -c
+  743  cd partials
+  744  ls
+  745  du -c
+  746  ls
+  747  cd ..
+  748  ls
+  749  cd ..
+  750  ls
+  751  cd ..
+  752  ls
+  753  cd share-secret
+  754  ls
+  755  du -c
+  756  ls ./.git/objects/66\n
+  757  clear
+  758  touch demo.txt
+  759  ls
+  760  cd ..
+  761  ls
+  762  clear
+  763  ls
+  764  cd ..
+  765  ls
+  766  cd Dek
+  767  cd Desktop
+  768  ls
+  769  cd git_demo
+  770  ls
+  771  git init
+  772  ls
+  773  git diff
+  774  git status
+  775  git add demo.txt
+  776  git status
+  777  git commit -m
+  778  git commit -m "Initial Commit"
+  779  git diff
+  780  clear
+  781  git status
+  782  code .
+  783  cd
+  784  ls
+  785  cd Desktop
+  786  ls
+  787  cd git_demo
+  788  ls
+  789  mv demo.txt Main.java
+  790  clear
+  791  git diff
+  792  git status
+  793  git add .
+  794  git git status
+  795  git status
+  796  git commit -m "Final Commit"
+  797  clear
+  798  git status
+  799  git add .
+  800  git commit -m "Final Commit2"
+  801  clear
+  802  git status
+  803  git add .
+  804  git status
+  805  git reset
+  806  git status
+  807  clear
+  808  vim staging_area.png
+  809  git status
+  810  git add .
+  811  git commit -m "Image added"
+  812  vim staging_area.png
+  813  git status
+  814  du -c
+  815  ls ./.git/objects/98\n
+  816  ls
+  817  clear
+  818  ls
+  819  git log
+  820  git log | echo >> txt
+  821  git log
+  822  git revert
+  823  git log
+  824  git revert 6dec8db9e0225c08950545f2db702854e327dff1
+  825  git restore
+  826  git restore --help
+  827  git restore 6dec8db9e0225c08950545f2db702854e327dff1
+  828  git restore .
+  829  ls
+  830  git status
+  831  rm txt
+  832  ls
+  833  git restore Main.java
+  834  ls
+  835  git diff
+  836  git worktree
+  837  git rebase
+  838  git history
+  839  git revert
+  840  git restore
+  841  git restore 6dec8db9e0225c08950545f2db702854e327dff1
+  842  git restore Main.java
+  843  ls
+  844  cat < Main.java
+  845  git --help
+  846  code .
+  847  exit
+  848  sudo update-alternative --config java
+  849  sudo update -alternative --config java
+  850  bash
+  851  ls
+  852  cd Do
+  853  cd Downloads
+  854  ls
+  855  sudo dpkg -i java-11-amazon-corretto-jdk_11.0.7.10-1_amd64.deb
+  856  clear
+  857  exit
+  858  ls
+  859  cd Downloads
+  860  ls
+  861  ]sudo dpkg -i zoom_amd64.deb
+  862  sudo dpkg -i zoom_amd64.deb
+  863  sudo apt install libgl1-mesa-glx
+  864  sudo dpkg -i zoom_amd64.deb
+  865  libgl1-mesa-glx
+  866  bash
+  867  sudo apt install gdebi
+  868  sudo apt --fix-broken install
+  869  exit
+  870  sudo apt install libglib2.0-0\nlibgstreamer-plugins-base0.10-0 \nlibxcb-shape0\nlibxcb-shm0\nlibxcb-xfixes0\nlibxcb-randr0\nlibxcb-image0\nlibfontconfig1\nlibgl1-mesa-glx\nlibxi6\nlibsm6\nlibxrender1\nlibpulse0\nlibxcomposite1\nlibxslt1.1\nlibsqlite3-0\nlibxcb-keysyms1\nlibxcb-xtest0
+  871  sudo apt install libglib2.0-0 && \nsudo apt install libgstreamer-plugins-base0.10-0 && \nsudo apt install libxcb-shape0 &&\nsudo apt install libxcb-shm0 && \nsudo apt install libxcb-xfixes0 && \nsudo apt install libxcb-randr0 && \nsudo apt install libxcb-image0 && \nsudo apt install libfontconfig1 && \nsudo apt install libgl1-mesa-glx
+  872  ls
+  873  sudo apt remove zoom
+  874  ls
+  875  sudo chmod +x zoom_amd64.deb
+  876  ls
+  877  sudo dpkg -i zoom_amd64.deb
+  878  zoom
+  879  git init
+  880  ls
+  881  git add .
+  882  git reset
+  883  touch .gitignore
+  884  vim .gitignore
+  885  clear
+  886  git remote add origin git@github.com:debajitdeb11/JavaMasterClass.git
+  887  git status
+  888  git add .gitignore
+  889  git commit -am "gitignore added
+  890  git commit -am "gitignore added"
+  891  git push -u origin master
+  892  git status
+  893  git add .
+  894  ls
+  895  git commit -am "Files for Getting Started with Java added"
+  896  git push
+  897  clear
+  898  exit
+  899  ls
+  900  sudo dpkg -i diffmerge_4.2.0.697.stable_amd64.deb
+  901  ls
+  902  sudo apt remove diffmerge
+  903  sudo apt update
+  904  ls
+  905  clear
+  906  ls
+  907  cd Downloads
+  908  ls
+  909  sudo apt-get install diffmerge
+  910  sudo wget -O - http://debian.sourcegear.com/SOURCEGEAR-GPG-KEY\n    | sudo apt-key add -
+  911  sudo apt update
+  912  sudo apt-get update
+  913  sudo apt-get install diffmerge
+  914  ls
+  915  sudo chmod +x diffmerge_4.2.0.697.stable_amd64.deb
+  916  sudo dpkg -i diffmerge_4.2.0.697.stable_amd64.deb
+  917  bash
+  918  sudo apt-get install libcurl3 -y
+  919  sudo apt-get install libcurl4 -y
+  920  apt --fix-broken install
+  921  sudo apt --fix-broken install
+  922  sudo dpkg -i diffmerge_4.2.0.697.stable_amd64.deb
+  923  sudo apt remove diffmerge
+  924  clear
+  925  exit
+  926  sudo snap install clion --classic
+  927  exit
+  928  ls
+  929  cd IdeaProjects
+  930  ls
+  931  git status
+  932  ls
+  933  cd Java
+  934  cd ..
+  935  ls
+  936  cd JavaMaster
+  937  ls
+  938  git status
+  939  exit
+  940  git status
+  941  git add .
+  942  git commit -am "Few Programs on Method Overloading are Added"
+  943  git push
+  944  ls
+  945  clear
+  946  exit
+  947  ls
+  948  sl
+  949  ls
+  950  man
+  951  sl
+  952  exit
+  953  xunil
+  954  sudo apt-get update
+  955  sudo apt-get upgrade
+  956  git status
+  957  git add .
+  958  git commit -am "GettingMore Added! "
+  959  git push
+  960  sudo apt update
+  961  sudo apt upgrade
+  962  sudo apt-get update
+  963  sudo apt-get upgrade
+  964  clear
+  965  docker
+  966  bash
+  967  exit
+  968  sudo snap install docker
+  969  docker
+  970  docker run
+  971  docker start
+  972  docker start --help
+  973  clear
+  974  git status
+  975  git add .
+  976  git commit -am "Control Flow => Programs Added"
+  977  git push
+  978  exit
+  979  ls
+  980  sudo apt update
+  981  exit
+  982  sudo apt
+  983  sudo apt update
+  984  sudo apt upgrade
+  985  sudo apt-get update
+  986  sudo apt-get upgrade
+  987  exit
+  988  sudo snap install irccloud
+  989  ls
+  990  cd P
+  991  cd Projects
+  992  ls
+  993  clear
+  994  ls
+  995  git clone git@github.com:debajitdeb11/covid19india-react.git
+  996  ls
+  997  cd covid19india-react
+  998  ls
+  999  code .
+ 1000  ls
+ 1001  npm i
+ 1002  npm audit fix
+ 1003  npm run
+ 1004  npm start
+ 1005  npm run build
+ 1006  exit
+ 1007  sudo apt-get update
+ 1008  sudo apt-get upgrade
+ 1009  sudo apt update
+ 1010  sudo apt upgrade
+ 1011  sudo apt-get update
+ 1012  sudo apt-get upgrade
+ 1013  exit
+ 1014  sudo snap install android-studio --classic
+ 1015  ls
+ 1016  sudo apt-get install qemu-kvm libvirt-bin ubuntu-vm-builder bridge-utils ia32-libs-multiarch
+ 1017  git status
+ 1018  sudo update
+ 1019  sudo apt update
+ 1020  sudo apt upgrade
+ 1021  ls
+ 1022  sudo apt-get update
+ 1023  sudo apt-get upgrade
+ 1024  sudo apt update
+ 1025  sudo apt-get update
+ 1026  sudo apt-get upgrade
+ 1027  exit
+ 1028  git status
+ 1029  git add .
+ 1030  git commit -am "Control Flow Added! "
+ 1031  git push
+ 1032  vim .gitignore
+ 1033  git add .gitignore
+ 1034  git commit -am "gitignore modified"
+ 1035  git push
+ 1036  git status
+ 1037  ls
+ 1038  mkdir Oop-I
+ 1039  ls
+ 1040  exit
+ 1041  sudo npm install -g @angular/cli
+ 1042  gedit /root/.npm/_logs/2020-05-28T13_22_53_679Z-debug.log
+ 1043  sudo gedit /root/.npm/_logs/2020-05-28T13_22_53_679Z-debug.log
+ 1044  npm cache verify
+ 1045  npm cache clear -- force
+ 1046  npm cache clear --force
+ 1047  sudo npm install -g @angular/cli
+ 1048  sudo snap remove node
+ 1049  node
+ 1050  clear
+ 1051  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+ 1052  sudo apt-get update && sudo apt-get install yarn
+ 1053  sudo apt install nodejs
+ 1054  node --version
+ 1055  npm -v
+ 1056  yarn
+ 1057  yarn -v
+ 1058  yarn --help
+ 1059  yarn --version
+ 1060  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+ 1061  nvm --version
+ 1062  nvm -version
+ 1063  nvm
+ 1064  bash
+ 1065  clear
+ 1066  sudo apt update
+ 1067  sudo apt upgrade
+ 1068  sudo apt-get update
+ 1069  sudo apt-get upgrade
+ 1070  exit
+ 1071  sudo npm install -g @angular/cli
+ 1072  clear
+ 1073  ls
+ 1074  cd P
+ 1075  cd Projects
+ 1076  ls
+ 1077  ng new experiment
+ 1078  ls
+ 1079  cd experiment
+ 1080  ls
+ 1081  code .
+ 1082  ng serve --open
+ 1083  exit
+ 1084  ls
+ 1085  clear
+ 1086  npm install -g nodemon
+ 1087  sudo npm install -g nodemon
+ 1088  ls
+ 1089  cd Projects
+ 1090  ls
+ 1091  cd t-store
+ 1092  ls
+ 1093  cd projbackend
+ 1094  ls
+ 1095  code .
+ 1096  sudo service mongo start
+ 1097  sudo service mongod start
+ 1098  mongo
+ 1099  sudo service mongo start
+ 1100  sudo service mongod start
+ 1101  sudo service mongodb start
+ 1102  sudo service mongo start
+ 1103  mongo
+ 1104  mongpd
+ 1105  mongod
+ 1106  sudo service start mongod
+ 1107  sudo service start mongo
+ 1108  sudo service mongo start
+ 1109  sudo service mongodb start
+ 1110  sudo service mongodb status
+ 1111  sudo service mongo status
+ 1112  mongo start
+ 1113  history
+ 1114  history | grep -i "mongo"
+ 1115  sudo service mongod start
+ 1116  sudo service mongo start
+ 1117  mongo
+ 1118  mongod
+ 1119  bash
+ 1120  mongo
+ 1121  exit
+ 1122  ls
+ 1123  sudo dpkg -i mongodb-org-server_4.2.7_amd64.deb
+ 1124  sudo service mongod start
+ 1125  sudo apt remove mongo
+ 1126  sudo apt remove mongod
+ 1127  sudo apt remove mongodb
+ 1128  bash
+ 1129  exit
+ 1130  sudo apt update
+ 1131  sudo apt upgrade
+ 1132  uname -a
+ 1133  exit
+ 1134  ls
+ 1135  cd Downloads
+ 1136  ls
+ 1137  sudo dpkg -i mongodb-org-server_4.2.7_amd64.deb
+ 1138  bash
+ 1139  exit
+ 1140  mongo
+ 1141  mongod
+ 1142  bash
+ 1143  cd Dow
+ 1144  cd
+ 1145  cd Downloads
+ 1146  ls
+ 1147  sudo dpkg -i mongodb-org-server_4.2.7_amd64.deb
+ 1148  mongo
+ 1149  mongod
+ 1150  sudo service mongod start
+ 1151  sudo service mongod status
+ 1152  sudo service mongo status
+ 1153  sudo service mongodb status
+ 1154  sudo service mongodb start
+ 1155  sudo service mongodb status
+ 1156  sudo service mongodb start
+ 1157  sudo service mongod start
+ 1158  sudo service mongodb status
+ 1159  sudo service mongo status
+ 1160  sudo service mongod status
+ 1161  sudo apt remove mongodb-org-server
+ 1162  sudo apt remove mongodb-server-core
+ 1163  sudo apt remove mongo-tools
+ 1164  mongo
+ 1165  mongod
+ 1166  mongodb
+ 1167  bash
+ 1168  exit
+ 1169  wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | sudo apt-key add -
+ 1170  sudo apt-get install gnupg
+ 1171  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu bionic/mongodb-org/4.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.2.list
+ 1172  cd /etc/apt/sources.list.d/
+ 1173  ls
+ 1174  rm mongodb-org-4.2.list
+ 1175  ls
+ 1176  sudo rm mongodb-org-4.2.list
+ 1177  sudo rm mongodb-org-4.2.list.save
+ 1178  ls
+ 1179  cd
+ 1180  clear
+ 1181  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu bionic/mongodb-org/4.2 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.2.list
+ 1182  sudo apt-get update
+ 1183  sudo apt-get install -y mongodb-org
+ 1184  sudo systemctl start mongod
+ 1185  sudo systemctl daemon-reload
+ 1186  sudo systemctl start mongod
+ 1187  sudo systemctl status mongod
+ 1188  ls -lh /var/log/mongodb/
+ 1189  hown -Rc mongodb. /var/log/mongodb
+ 1190  chown -Rc mongodb. /var/log/mongodb
+ 1191  sudo chown -Rc mongodb. /var/log/mongodb
+ 1192  sudo systemctl restart mongod
+ 1193  systemctl status mongod
+ 1194  sudo systemctl status mongod
+ 1195  sudo rm -rfv /etc/mongod.conf /var/log/mongodb /var/lib/mongodb
+ 1196  sudo find /tmp -type s -iname '*mongodb*' -delete
+ 1197  sudo apt purge mongodb-org mongodb-org-mongos mongodb-org-server mongodb-org-shell mongodb-org-tools
+ 1198  sudo apt install mongodb-org
+ 1199  sudo systemctl start mongod
+ 1200  sudo systemctl daemon-reload
+ 1201  sudo systemctl start mongod
+ 1202  sudo systemctl status mongod
+ 1203  clear
+ 1204  robo3t
+ 1205  ls
+ 1206  code .
+ 1207  npm start
+ 1208  sudo apt update
+ 1209  sudo apt upgrade
+ 1210  sudo apt-get update
+ 1211  sudo apt-get upgrade
+ 1212  clear
+ 1213  exit
+ 1214  ls
+ 1215  mkdir DealsForLiving
+ 1216  ls
+ 1217  cd Deald
+ 1218  cd DealsForLiving
+ 1219  ls
+ 1220  cd ..
+ 1221  ls
+ 1222  cd ..
+ 1223  ks
+ 1224  ls
+ 1225  cd t-store
+ 1226  ls
+ 1227  cd projbackend
+ 1228  ls
+ 1229  mkdir models routes controllers
+ 1230  ls
+ 1231  cd models
+ 1232  ls
+ 1233  clear
+ 1234  ls
+ 1235  exit
+ 1236  ls
+ 1237  cd ..
+ 1238  ls
+ 1239  cd Internships
+ 1240  ls
+ 1241  cd DealsForLiving
+ 1242  ls
+ 1243  code .
+ 1244  ls
+ 1245  cd ..
+ 1246  ls
+ 1247  cd ..
+ 1248  ls
+ 1249  cd t-store
+ 1250  ls
+ 1251  cd projbackend
+ 1252  ls
+ 1253  code .
+ 1254  ls
+ 1255  cd ..
+ 1256  ls
+ 1257  cd ..
+ 1258  ls
+ 1259  cd Internships
+ 1260  ls
+ 1261  cd DealsForLiving
+ 1262  ls
+ 1263  npm init
+ 1264  npm i express mongoose
+ 1265  exit
+ 1266  ls
+ 1267  touch .gitignore
+ 1268  vim .gitignore
+ 1269  echo "# DealsForLiving" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin git@github.com:debajitdeb11/DealsForLiving.git\ngit push -u origin master
+ 1270  git add .
+ 1271  git commit -am "Initial Commit"
+ 1272  git push
+ 1273  git pull
+ 1274  code .
+ 1275  ls
+ 1276  clear
+ 1277  npm start
+ 1278  robo3t
+ 1279  npm start
+ 1280  ls
+ 1281  cd Projects
+ 1282  ls
+ 1283  cd t-store
+ 1284  ls
+ 1285  git status
+ 1286  git add .
+ 1287  git commit -am "Backend Partial Done"
+ 1288  git push
+ 1289  sudo apt-get update
+ 1290  npm install --save firebase
+ 1291  sudo npm install --save firebase
+ 1292  ls
+ 1293  ls -l
+ 1294  sudo npm install -g firebase-tools
+ 1295  ls
+ 1296  cd Projects/\n: 1590773853:0;cd Projects/
+ 1297  ls
+ 1298  git clone git@github.com:debajitdeb11/myCV.git
+ 1299  ls
+ 1300  cd myCV
+ 1301  ls
+ 1302  clear
+ 1303  ls
+ 1304  code .
+ 1305  exit
+ 1306  firebase login
+ 1307  firebase init
+ 1308  ls
+ 1309  firebase deploy
+ 1310  firebase serve
+ 1311  firebase deploy
+ 1312  ls
+ 1313  chmod +x zoho-mail-desktop-x64-v1.1.10.AppImage
+ 1314  ls
+ 1315  ./zoho-mail-desktop-x64-v1.1.10.AppImage
+ 1316  sudo apt install fuse\nsudo modprobe fuse\nsudo groupadd fuse\n\nuser="$(whoami)"\nsudo usermod -a -G fuse $user
+ 1317  ls
+ 1318  sudo chmod 777 zoho-mail-desktop-x64-v1.1.10.AppImage
+ 1319  ls
+ 1320  sudo ./zoho-mail-desktop-x64-v1.1.10.AppImage
+ 1321  ./zoho-mail-desktop-x64-v1.1.10.AppImage
+ 1322  ./zoho-mail-desktop-x64-v1.1.10.AppImage --app-image-extract
+ 1323  sudo dpkg -i /home/debajit/Desktop/zoho-mail-desktop-x64-v1.1.10.AppImage
+ 1324  gedit .zshrc
+ 1325  pwd
+ 1326  ls
+ 1327  pwd
+ 1328  ls
+ 1329  source ~/.zshrc
+ 1330  exit
+ 1331  zoho
+ 1332  ls
+ 1333  sudo apt-get update
+ 1334  sudo apt-get upgrade
+ 1335  exit
+ 1336  ls
+ 1337  cd Projects
+ 1338  ls
+ 1339  cd Internships
+ 1340  l
+ 1341  ls
+ 1342  cd DealsForLiving
+ 1343  ls
+ 1344  git pull
+ 1345  code .
+ 1346  npm i
+ 1347  npm start
+ 1348  git status
+ 1349  git add .
+ 1350  git commit -am "Few minor changes fixed"
+ 1351  git push
+ 1352  clear
+ 1353  zoho
+ 1354  sudo snap remove Clion
+ 1355  sudo snap remove clion
+ 1356  clear
+ 1357  exit
+ 1358  code .
+ 1359  exit
+ 1360  code .
+ 1361  ls
+ 1362  g++ HelloWorld.cpp
+ 1363  ls
+ 1364  ./a.out
+ 1365  ls
+ 1366  g++ HelloWorld.cpp
+ 1367  ./a.out
+ 1368  g++ HelloWorld.cpp
+ 1369  ./a.out
+ 1370  clear
+ 1371  ls
+ 1372  gcc HelloWorld.c
+ 1373  g++ HelloWorld.cpp
+ 1374  ls
+ 1375  clear
+ 1376  g++ HelloWorld.cpp
+ 1377  ./a.out
+ 1378  g++ HelloWorld.cpp
+ 1379  clear
+ 1380  node HelloWorld.
+ 1381  node HelloWorld.js
+ 1382  zoho
+ 1383  clear
+ 1384  spotify
+ 1385  git status
+ 1386  git add .
+ 1387  git commit -am "Few Files on Oop Added"
+ 1388  git push
+ 1389  clear
+ 1390  code .
+ 1391  ls
+ 1392  code .
+ 1393  ls
+ 1394  gcc hello.c
+ 1395  ./a.out
+ 1396  gcc hello -S
+ 1397  gcc -S hello.c
+ 1398  ls
+ 1399  g++ hello.cpp
+ 1400  ./a.out
+ 1401  code .
+ 1402  ls
+ 1403  g++ fact.cpp
+ 1404  ls
+ 1405  ./a.out
+ 1406  ls
+ 1407  cd ..
+ 1408  ls
+ 1409  cd BasicJava
+ 1410  ls
+ 1411  code .
+ 1412  clear
+ 1413  10000
+ 1414  1 cd "/home/debajit/Desktop/Talk on Java/BasicJava" ; /usr/lib/jvm/java-11-amazon-corretto/bin/java -Dfile.encoding=UTF-8 -cp /home/debajit/.config/Code/User/workspaceStorage/c04c5cb2f32047303e2d0d1c744244dd/redhat.java/jdt_ws/BasicJava_7aba339e/bin Factorial
+ 1415  ls
+ 1416  cd ..
+ 1417  ls
+ 1418  touch hello.js
+ 1419  vim hello
+ 1420  vim hello.js
+ 1421  ls
+ 1422  node hello.js
+ 1423  vim hello.js
+ 1424  node hello.js
+ 1425  ls
+ 1426  clear
+ 1427  zoho
+ 1428  spotify
+ 1429  ls
+ 1430  zoho
+ 1431  sudo apt update
+ 1432  git clone git@github.com:debajitdeb11/c-week.git
+ 1433  sudo apt install simplescreenrecorder simplescreenrecorder-lib
+ 1434  sudo add-apt-repository ppa:maarten-baert/simplescreenrecorder
+ 1435  sudo snap connect obs-studio:removable-media
+ 1436  sudo snap install obs-studio
+ 1437  sudo apt-get install ubuntu-restricted-extras
+ 1438  ls
+ 1439  clear
+ 1440  sudo snap remove OBS
+ 1441  snap
+ 1442  snap --all
+ 1443  snap help --all
+ 1444  snap list
+ 1445  sudo snap remove obs-studio
+ 1446  sudo snap install simplescreenrecorder-brlin
+ 1447  snap list
+ 1448  simplescreenrecorder-brlin
+ 1449  ls
+ 1450  cd Projects
+ 1451  ls
+ 1452  cd ..
+ 1453  ls
+ 1454  cd IdeaProjects
+ 1455  ls
+ 1456  cd Java
+ 1457  cd ..
+ 1458  ls
+ 1459  cd JavaMaster
+ 1460  ls
+ 1461  git status
+ 1462  git add .
+ 1463  git commit -am "Inheritence Added! "
+ 1464  git push
+ 1465  exit
+ 1466  ls
+ 1467  cd codes
+ 1468  ls
+ 1469  cd js-practice
+ 1470  ls
+ 1471  code .
+ 1472  node rand
+ 1473  ls
+ 1474  cd 04intermediate
+ 1475  ls
+ 1476  node randomNumber.js
+ 1477  ls
+ 1478  node equals.js
+ 1479  sudo add-apt-repository ppa:varlesh-l/papirus-pack
+ 1480  sudo apt-get update
+ 1481  sudo apt-get install papirus-gtk-icon-theme
+ 1482  sudo add-apt-repository ppa:papirus/papirus
+ 1483  sudo apt-get update
+ 1484  sudo apt-get install papirus-icon-theme
+ 1485  ls
+ 1486  clear
+ 1487  exit
+ 1488  sudo snap install canta-themes
+ 1489  sudo snap connect [other snap]:gtk-3-themes canta-themes:gtk-3-themes
+ 1490  sudo snap remove canta-themes
+ 1491  sudo apt-get install gtk2-engines-murrine gtk2-engines-pixbuf
+ 1492  ls
+ 1493  cd Downloads
+ 1494  ls
+ 1495  rm -r *
+ 1496  ls
+ 1497  git clone git@github.com:vinceliuice/Canta-theme.git
+ 1498  ld
+ 1499  ls
+ 1500  cd Canta-theme
+ 1501  ls
+ 1502  ./install.sh
+ 1503  ls
+ 1504  clear
+ 1505  ls
+ 1506  clear
+ 1507  exit
+ 1508  ls
+ 1509  clear
+ 1510  ls
+ 1511  sudo apt install kazam\n
+ 1512  ls
+ 1513  clear
+ 1514  exit
+ 1515  alsamixer
+ 1516  cat /proc/asound/card*/codec* | grep Codec
+ 1517  alsamixer
+ 1518  ls
+ 1519  touch main.java
+ 1520  code main.java
+ 1521  mv main.java Hello.java
+ 1522  cd Desktop
+ 1523  ls
+ 1524  code Hello.java
+ 1525  ls
+ 1526  java Hello.java
+ 1527  javac Hello.java
+ 1528  java Hello.java
+ 1529  ls
+ 1530  alsamixer
+ 1531  git status
+ 1532  git add .
+ 1533  git commit -am "OOP-I Done
+ 1534  git commit -am "OOP-I Done"
+ 1535  git push
+ 1536  ls
+ 1537  clear
+ 1538  ls
+ 1539  mkdir Oop-II
+ 1540  ls
+ 1541  exit
+ 1542  ls
+ 1543  emotty
+ 1544  emotty.zsh
+ 1545  ls
+ 1546  zsh
+ 1547  ls
+ 1548  zsh
+ 1549  ls
+ 1550  clear
+ 1551  ls
+ 1552  cd Desktop
+ 1553  ls
+ 1554  touch Hello.java
+ 1555  vim Hello.java
+ 1556  ls
+ 1557  java Hello.java
+ 1558  clear
+ 1559  javac Hello.java
+ 1560  java Hello
+ 1561  java Hello.java
+ 1562  clear
+ 1563  hello
+ 1564  ./hello
+ 1565  java hello
+ 1566  java Hello.java
+ 1567  javac Hello.java
+ 1568  java Hello
+ 1569  exit
+ 1570  sudo apt install python3-cairo python3-xlib
+ 1571  exit
+ 1572  sudo apt install ffmpeg
+ 1573  sudo add-apt-repository ppa:obsproject/obs-studio\nsudo apt update\nsudo apt install obs-studio
+ 1574  ls
+ 1575  cd
+ 1576  exit
+ 1577  code .
+ 1578  ls
+ 1579  clear
+ 1580  ls
+ 1581  clear
+ 1582  cd
+ 1583  echo "# Java-codes" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin git@github.com:debajitdeb11/Java-codes.git\ngit push -u origin master\n                
+ 1584  ls
+ 1585  ls -al
+ 1586  rm -r .idea
+ 1587  ls
+ 1588  cd
+ 1589  exit
+ 1590  git pull
+ 1591  ls
+ 1592  la
+ 1593  mkdir public
+ 1594  code .
+ 1595  $ npm install ejs
+ 1596  npm install ejs
+ 1597  npm install -g npm
+ 1598  sudo npm install -g npm
+ 1599  node
+ 1600  clear
+ 1601  cd
+ 1602  clear
+ 1603  ls
+ 1604  ls -al
+ 1605  clear
+ 1606  sudo apt-get update
+ 1607  sudo apt-get upgrade
+ 1608  ls
+ 1609  sudo dpkg -i teamviewer_15.6.7_amd64.deb
+ 1610  teamviewer
+ 1611  bash
+ 1612  sudo apt-get update
+ 1613  sudo apt-get upgrade
+ 1614  sudo apt update
+ 1615  sudo apt upgrade
+ 1616  clear
+ 1617  exit
+ 1618  ls
+ 1619  cd IdeaProjects
+ 1620  ls
+ 1621  cd Java
+ 1622  cd ..
+ 1623  cd JavaMaster
+ 1624  ls
+ 1625  cd Oop-II
+ 1626  ls
+ 1627  cd Compositions
+ 1628  ls
+ 1629  cd src/xyz/knowdebajit
+ 1630  ls
+ 1631  mv Computer.java Motherboard.java
+ 1632  ls
+ 1633  zoho
+ 1634  ls
+ 1635  cd Projects
+ 1636  ls
+ 1637  cd ..
+ 1638  ls
+ 1639  cd IdeaProjects
+ 1640  ls
+ 1641  cd JavaMaster
+ 1642  ls
+ 1643  cd Oop-II
+ 1644  ls
+ 1645  git status
+ 1646  cd ..
+ 1647  ls
+ 1648  git status
+ 1649  git add .
+ 1650  git commit -am "Object Oriented Programming - II Added"
+ 1651  git push
+ 1652  clear
+ 1653  ls
+ 1654  mkdir Collections
+ 1655  ls
+ 1656  clear
+ 1657  sudo apt-get update
+ 1658  sudo apt-get upgrade
+ 1659  sudo apt update
+ 1660  sudo apt upgrade
+ 1661  clear
+ 1662  sudo snap install gitkraken --classic
+ 1663  code .
+ 1664  clear
+ 1665  ls
+ 1666  sudo apt-get update
+ 1667  sudo apt-get upgrade
+ 1668  sudo apt update
+ 1669  sudo apt upgrade
+ 1670  clear
+ 1671  ext
+ 1672  exit
+ 1673  sudo apt update
+ 1674  sudo apt upgrade
+ 1675  sudo apt-get update
+ 1676  sudo apt-get upgrade
+ 1677  sudo snap install wethr
+ 1678  wethr
+ 1679  clear
+ 1680  wethr
+ 1681  git status
+ 1682  git add .
+ 1683  git status
+ 1684  git commit -am "Few Files on Array and ArrayList are added"
+ 1685  git push
+ 1686  wethr
+ 1687  sudo apt-get update
+ 1688  sudo apt-get upgrade
+ 1689  sudo apt update
+ 1690  sudo apt upgrade
+ 1691  clear
+ 1692  weatr
+ 1693  weathr
+ 1694  wethr
+ 1695  clear
+ 1696  exit
+ 1697  ls
+ 1698  clear
+ 1699  ls
+ 1700  cleae
+ 1701  clear
+ 1702  cd Desll
+ 1703  cd Deks
+ 1704  cd Desktop
+ 1705  ls
+ 1706  mkdir c-teach
+ 1707  ls
+ 1708  cd c-teach
+ 1709  code .
+ 1710  ls
+ 1711  gcc bmi.c
+ 1712  ls
+ 1713  ./a.out
+ 1714  gcc bmi.c
+ 1715  ./a.out
+ 1716  gcc bmi.c
+ 1717  ./a.out
+ 1718  ls
+ 1719  gcc character.c
+ 1720  ls
+ 1721  ./a.out
+ 1722  ls
+ 1723  gcc character.c
+ 1724  ./a.out
+ 1725  gcc character.c
+ 1726  ./a.out
+ 1727  gcc character.c
+ 1728  ./a.out
+ 1729  gcc character.c
+ 1730  ./a.out
+ 1731  gcc character.c
+ 1732  ./a.out
+ 1733  gcc character.c
+ 1734  ./a.out
+ 1735  gcc character.c
+ 1736  ./a.out
+ 1737  ls
+ 1738  clear
+ 1739  gcc moduloOperator.c
+ 1740  ./a.out
+ 1741  gcc moduloOperator.c
+ 1742  ./a.out
+ 1743  gcc ifStatement.c
+ 1744  ./a.out
+ 1745  gcc ifStatement.c
+ 1746  ./a.out
+ 1747  gcc ifStatement.c
+ 1748  ./a.out
+ 1749  gcc ifStatement.c
+ 1750  ./a.out
+ 1751  ls
+ 1752  sudo apt-get upate
+ 1753  sudo apt-get update
+ 1754  sudo apt-get upgrade
+ 1755  sudo apt update
+ 1756  sudo apt upgrade
+ 1757  ls
+ 1758  clear
+ 1759  ls
+ 1760  exit
+ 1761  ls
+ 1762  cd codes
+ 1763  cd
+ 1764  ls
+ 1765  cd Desktop
+ 1766  ls
+ 1767  cd c-teach
+ 1768  ls
+ 1769  code .
+ 1770  ls
+ 1771  gcc if-else.c
+ 1772  ./a.out
+ 1773  ls
+ 1774  gcc advanceBmiCal.c
+ 1775  ./a.out
+ 1776  gcc advanceBmiCal.c
+ 1777  ./a.out
+ 1778  gcc advanceBmiCal.c
+ 1779  ./a.out
+ 1780  gcc advanceBmiCal.c
+ 1781  ./a.out
+ 1782  exit
+ 1783  sudo apt update
+ 1784  sudo apt upgrade
+ 1785  sudo apt update
+ 1786  sudo apt-get update
+ 1787  sudo apt-get upgrade
+ 1788  exit
+ 1789  sudo snap install wifi-ap
+ 1790  wifi-ap
+ 1791  echo "# Data-Structure-And-Algorithms" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit remote add origin git@github.com:debajitdeb11/Data-Structure-And-Algorithms.git\ngit push -u origin master\n                
+ 1792  ls
+ 1793  clear
+ 1794  vim .gitignore
+ 1795  clear
+ 1796  exit
+ 1797  code .
+ 1798  cd "/home/debajit/.vscode/extensions/vscjava.vscode-maven-0.21.4/resources/maven-wrapper"
+ 1799  "/home/debajit/.vscode/extensions/vscjava.vscode-maven-0.21.4/resources/maven-wrapper/mvnw" org.apache.maven.plugins:maven-archetype-plugin:3.1.2:generate -DarchetypeArtifactId="maven-archetype-quickstart" -DarchetypeGroupId="org.apache.maven.archetypes" -DarchetypeVersion="1.4" -DoutputDirectory="/home/debajit/Documents/Data-Structures-And-Algorithms/Arrays"
+ 1800  exit
+ 1801  ls
+ 1802  ls -al
+ 1803  code .
+ 1804  exit
+ 1805  zsh
+ 1806  cd c-teach
+ 1807  ls
+ 1808  cd code .
+ 1809  code .
+ 1810  ls
+ 1811  gcc increment.c
+ 1812  ./a.out
+ 1813  gcc increment.c
+ 1814  ./a.out
+ 1815  gcc increment.c
+ 1816  ./a.out
+ 1817  gcc increment.c
+ 1818  ./a.out
+ 1819  gcc increment.c
+ 1820  ./a.out
+ 1821  gcc increment.c
+ 1822  ./a.out
+ 1823  gcc increment.c
+ 1824  ./a.out
+ 1825  gcc loop.c
+ 1826  ./a.out
+ 1827  gcc loop.c
+ 1828  ./a.out
+ 1829  zoho
+ 1830  ls
+ 1831  cd Documents
+ 1832  ls
+ 1833  git clone git@github.com:Errichto/youtube.git
+ 1834  ls
+ 1835  cd  codes
+ 1836  ls
+ 1837  cd cpp-code-practice
+ 1838  ls
+ 1839  cd Array
+ 1840  ls
+ 1841  cd ..
+ 1842  ls
+ 1843  mkdir enum
+ 1844  ls
+ 1845  clear
+ 1846  ls
+ 1847  cd enum
+ 1848  code .
+ 1849  ls
+ 1850  g++ enum1.cpp -o enum
+ 1851  ls
+ 1852  ./enum
+ 1853  ls
+ 1854  g++ enum1.cpp -o enum
+ 1855  ls
+ 1856  ./enum
+ 1857  g++ enum1.cpp
+ 1858  ./a.out
+ 1859  g++ enum1.cpp
+ 1860  ls
+ 1861  cd ..
+ 1862  ls
+ 1863  mkdir i/o
+ 1864  mkdir 'i/o'
+ 1865  mkdir 'i//o'
+ 1866  mkdir i//o
+ 1867  ls
+ 1868  mkdir IO
+ 1869  ls
+ 1870  cd IO
+ 1871  ls
+ 1872  clear
+ 1873  code .
+ 1874  ls
+ 1875  g++ io.cpp
+ 1876  ls
+ 1877  ./a.out
+ 1878  ls
+ 1879  g++ io.cpp
+ 1880  ./a.out
+ 1881  ls
+ 1882  g++ io.cpp
+ 1883  ./a.out
+ 1884  g++ io.cpp
+ 1885  ./a.out
+ 1886  ls
+ 1887  g++ io-100.cpp
+ 1888  ./a.out
+ 1889  ls
+ 1890  g++ io-100read.cpp
+ 1891  ./a.out
+ 1892  ls
+ 1893  cd g++ ge
+ 1894  g++ getline.cpp
+ 1895  ./a.out
+ 1896  ls
+ 1897  g++ sstream.cpp
+ 1898  ./a.out
+ 1899  car
+ 1900  clear
+ 1901  ./a.out
+ 1902  clear
+ 1903  sudo apt update
+ 1904  sudo apt upgrade
+ 1905  sudo apt-get update && sudo apt-get upgrade
+ 1906  ls
+ 1907  cd IdeaProjects
+ 1908  ls
+ 1909  cd Java
+ 1910  cd ..
+ 1911  ls
+ 1912  cd JavaMaster
+ 1913  ls
+ 1914  cd Collections
+ 1915  ls
+ 1916  rm -r untitled
+ 1917  ls
+ 1918  git status
+ 1919  exit
+ 1920  ls
+ 1921  git status
+ 1922  git add .
+ 1923  git commit -m "\nPrograms on List, ArrayList, LinkedList Added\nBug: Banking Challege is pending"
+ 1924  git push
+ 1925  clear
+ 1926  exit
+ 1927  ls
+ 1928  cd ..
+ 1929  ls
+ 1930  cd ..
+ 1931  ls
+ 1932  clear
+ 1933  exit
+ 1934  rpm
+ 1935  bash
+ 1936  rpm
+ 1937  cd
+ 1938  ls
+ 1939  cd Desktop
+ 1940  ls
+ 1941  rpm -i nasm-2.14.99.97-0.fc31.x86_64.rpm
+ 1942  exit
+ 1943  ls
+ 1944  sudo apt update && sudo apt upgrade
+ 1945  sudo apt-get update && sudo apt-get upgrade
+ 1946  exit
+ 1947  ls
+ 1948  code .
+ 1949  zoho
+ 1950  ls
+ 1951  chmod +x zoho-mail-desktop-x64-v1.1.12.AppImage
+ 1952  zoho
+ 1953  vim .zshrc
+ 1954  zoho
+ 1955  source ~/.
+ 1956  source ~.zshrc
+ 1957  source ~/.zshrc
+ 1958  clear
+ 1959  ls
+ 1960  zoho
+ 1961  code .
+ 1962  gcc loop.c
+ 1963  ./a.out
+ 1964  gcc loop.c
+ 1965  ./a.out
+ 1966  gcc loop.c
+ 1967  ./a.out
+ 1968  gcc loop.c
+ 1969  ./a.out
+ 1970  ls
+ 1971  clear
+ 1972  exit
+ 1973  ls
+ 1974  cd Desktop
+ 1975  ls
+ 1976  cd ..
+ 1977  ls
+ 1978  wethr
+ 1979  sudo apt update && sudo apt upgrade
+ 1980  sudo apt-get update && sudo apt-get upgrade
+ 1981  exit
+ 1982  ls
+ 1983  code .
+ 1984  ls
+ 1985  cd ..
+ 1986  ls
+ 1987  code .
+ 1988  subl .
+ 1989  sudo npm install -g typescript
+ 1990  tcs
+ 1991  tsc
+ 1992  clear
+ 1993  php
+ 1994  apache
+ 1995  bash
+ 1996  ls
+ 1997  gcc loop.c 
+ 1998  ./a.out
+ 1999  gcc loop.c 
+ 2000  ./a.out
+ 2001  ls
+ 2002  gcc loop.c
+ 2003  ./a.out
+ 2004  ls
+ 2005  code .
+ 2006  cd "/home/debajit/.vscode/extensions/vscjava.vscode-maven-0.22.0/resources/maven-wrapper"
+ 2007  "/home/debajit/.vscode/extensions/vscjava.vscode-maven-0.22.0/resources/maven-wrapper/mvnw" org.apache.maven.plugins:maven-archetype-plugin:3.1.2:generate -DarchetypeArtifactId="maven-archetype-quickstart" -DarchetypeGroupId="org.apache.maven.archetypes" -DarchetypeVersion="1.4" -DoutputDirectory="/home/debajit/Documents/Data-Structures-And-Algorithms/Arrays/Array Rotation"
+ 2008  ls
+ 2009  mkdir Arrays
+ 2010  cd Arrays
+ 2011  ls
+ 2012  clear
+ 2013  ls
+ 2014  mkdir Array Rotation
+ 2015  rm *
+ 2016  rm -r *
+ 2017  ls
+ 2018  cd ..
+ 2019  ls
+ 2020  clear
+ 2021  ls
+ 2022  code .
+ 2023  clear
+ 2024  5.
+ 2025  clear
+ 2026  ls
+ 2027  cd Array
+ 2028  ls
+ 2029  cd ArrayRotation
+ 2030  ls
+ 2031  cd ..
+ 2032  ls
+ 2033  cd ArrayRotation
+ 2034  ls
+ 2035  gcc RotateArray.cpp
+ 2036  ls
+ 2037  cd ..
+ 2038  ls
+ 2039  cd ..
+ 2040  ls
+ 2041  g++ demo.cpp
+ 2042  ./a.out
+ 2043  g++ demo.cpp
+ 2044  ./a.out
+ 2045  g++ demo.cpp
+ 2046  ./a.out
+ 2047  g++ demo.cpp
+ 2048  ./a.out
+ 2049  g++ demo.cpp
+ 2050  ./a.out
+ 2051  g++ demo.cpp
+ 2052  ./a.out
+ 2053  g++ demo.cpp
+ 2054  ./a.out
+ 2055  g++ demo.cpp
+ 2056  ./a.out
+ 2057  g++ demo.cpp
+ 2058  ./a.out
+ 2059  g++ demo.cpp
+ 2060  ls
+ 2061  cd Projects
+ 2062  ls
+ 2063  cd ..
+ 2064  ls
+ 2065  cd codes
+ 2066  ls
+ 2067  cd cpp-code-practice
+ 2068  ls
+ 2069  mkdir pointers
+ 2070  cd pointers
+ 2071  ls
+ 2072  code .
+ 2073  ls
+ 2074  g++ *
+ 2075  ls
+ 2076  cd .
+ 2077  ./a.out
+ 2078  code .
+ 2079  cd .
+ 2080  rm a.out
+ 2081  ls
+ 2082  g++ *
+ 2083  ls
+ 2084  ./a.out
+ 2085  g++ *
+ 2086  ./a.out
+ 2087  g++ pointerDRef.cpp
+ 2088  ./a.out
+ 2089  gcc callByRef.cpp
+ 2090  ./a.out
+ 2091  gcc callByRef.cpp
+ 2092  g++ -Wall -Wextra -Werror callByRef.cpp
+ 2093  ./a.out
+ 2094  g++ callByRef.cpp
+ 2095  ./a.out
+ 2096  g++ customArr.cpp
+ 2097  ./a.out
+ 2098  g++ customArr.cpp
+ 2099  ./a.out
+ 2100  g++ customArr.cpp
+ 2101  ./a.out
+ 2102  g++ customArr.cpp
+ 2103  ./a.out
+ 2104  g++ customArr.cpp
+ 2105  ./a.out
+ 2106  g++ customArr.cpp
+ 2107  ./a.out
+ 2108  g++ customArr.cpp
+ 2109  ./a.out
+ 2110  g++ customArr.cpp
+ 2111  ./a.out
+ 2112  g++ customArr.cpp
+ 2113  ./a.out
+ 2114  ls
+ 2115  cd Documents
+ 2116  ls
+ 2117  cd cp
+ 2118  ls
+ 2119  cd ..
+ 2120  ls
+ 2121  cd Data-Structures-And-Algorithms
+ 2122  ls
+ 2123  code .
+ 2124  ls
+ 2125  cd Array
+ 2126  ls
+ 2127  cd ArrayRotation
+ 2128  ls
+ 2129  g++ RotateArray.cpp
+ 2130  ls
+ 2131  ./a.out
+ 2132  10
+ 2133  ./a.out
+ 2134  ls
+ 2135  cd ..
+ 2136  ls
+ 2137  cd ..
+ 2138  ls
+ 2139  g++ demo.cpp
+ 2140  ./a
+ 2141  ./a.out
+ 2142  g++ demo.cpp
+ 2143  ls
+ 2144  gcc demo.c
+ 2145  ./a.out
+ 2146  gcc demo.c
+ 2147  ./a.out
+ 2148  gcc demo.c
+ 2149  ./a.out
+ 2150  gcc demo.c
+ 2151  ./a.out
+ 2152  gcc demo.c
+ 2153  ./a.out
+ 2154  gcc demo.c
+ 2155  ./a.out
+ 2156  ls
+ 2157  exit
+ 2158  ls
+ 2159  cd codes
+ 2160  ls
+ 2161  cd cpp-code-practice
+ 2162  ls
+ 2163  code .
+ 2164  clear
+ 2165  * env /bin/sh /tmp/Microsoft-MIEngine-Cmd-4wst3v8c.ddq 
+ 2166  ls
+ 2167  cd pointers
+ 2168  ls
+ 2169  g++ 2D-Arrays.cpp
+ 2170  ./a.out
+ 2171  g++ 2D-Arrays.cpp
+ 2172  ./a.out
+ 2173  g++ 2D-Arrays.cpp
+ 2174  ./a.out
+ 2175  ls
+ 2176  g++ ArrayUsingPointers.cpp
+ 2177  ./a.out
+ 2178  ls
+ 2179  gcc pointerFunction.c
+ 2180  ./a.out
+ 2181  ls
+ 2182  cd ..
+ 2183  ls
+ 2184  git status
+ 2185  git add .
+ 2186  git commit -m "Programs on Pointers, IO, enum are added! "
+ 2187  git push
+ 2188  cd pointers
+ 2189  ls
+ 2190  gcc pointerFun2.c
+ 2191  ./a
+ 2192  ./a.out
+ 2193  gcc pointerFun2.c
+ 2194  ./a.out
+ 2195  gcc pointerFun2.c
+ 2196  ./a.out
+ 2197  clear
+ 2198  ls
+ 2199  cd ..
+ 2200  ls
+ 2201  clear
+ 2202  ls
+ 2203  cd pointers
+ 2204  ls
+ 2205  gcc heapPointerFunction.c
+ 2206  ./a.out
+ 2207  clear
+ 2208  ls
+ 2209  gcc functionPointers.c
+ 2210  ./a.out
+ 2211  ls
+ 2212  cd codes
+ 2213  ls
+ 2214  cd cpp-code-practice
+ 2215  ls
+ 2216  cd pointers
+ 2217  ls
+ 2218  vim helloPointer.c
+ 2219  ls
+ 2220  gcc helloPointer.c
+ 2221  vim helloPointer.c
+ 2222  gcc helloPointer.c
+ 2223  vim helloPointer.c
+ 2224  gcc helloPointer.c
+ 2225  ./a.out
+ 2226  clear
+ 2227  ./a.out
+ 2228  gcc helloPointer.c
+ 2229  vim helloPointer.c
+ 2230  ls
+ 2231  gcc helloPointer.c
+ 2232  ./a.out
+ 2233  clear
+ 2234  code .
+ 2235  gcc callbackFunPointer.c
+ 2236  ./a.out
+ 2237  gcc callbackFunPointer.c
+ 2238  ./a.out
+ 2239  gcc callbackFunPointer.c
+ 2240  ./a.out
+ 2241  gcc bubblesort.c
+ 2242  ./a.out
+ 2243  ls
+ 2244  gcc bubblesort.c
+ 2245  ./a.out
+ 2246  gcc bubblesort.c
+ 2247  ./a.out
+ 2248  gcc bubblesort.c
+ 2249  ./a.out
+ 2250  gcc bubblesort.c
+ 2251  ./a.out
+ 2252  gcc bubblesort.c
+ 2253  ./a.out
+ 2254  ls
+ 2255  git status
+ 2256  git add .
+ 2257  git commit -am "Complete Pointer programs added! "
+ 2258  git add .
+ 2259  git push
+ 2260  clear
+ 2261  cd ..
+ 2262  cd
+ 2263  cd Documents
+ 2264  ls
+ 2265  cd Data-Structures-And-Algorithms
+ 2266  ls
+ 2267  clear
+ 2268  ls
+ 2269  code .
+ 2270  ls
+ 2271  g++ RAgfg.cpp
+ 2272  ./a.out
+ 2273  g++ RAgfg.cpp
+ 2274  ./a.out
+ 2275  valgrind ./a.out
+ 2276  ./a.out
+ 2277  g++ RAgfg.cpp
+ 2278  ./a.out
+ 2279  valgrind ./a.out
+ 2280  g++ RAgfg.cpp
+ 2281  ./a.out
+ 2282  g++ RAgfg.cpp
+ 2283  ./a.out
+ 2284  g++ RAgfg.cpp
+ 2285  ./a.out
+ 2286  g++ RAgfg.cpp
+ 2287  ./a.out
+ 2288  g++ RAgfg.cpp
+ 2289  ./a.out
+ 2290  g++ RAgfg.cpp
+ 2291  ./a.out
+ 2292  g++ RAgfg.cpp
+ 2293  ./a.out
+ 2294  g++ RAgfg.cpp
+ 2295  ./a.out
+ 2296  valgrind ./a.out
+ 2297  g++ RAgfg.cpp
+ 2298  ./a.out
+ 2299  ls
+ 2300  code .
+ 2301  g++ RAgfg.cpp
+ 2302  code .
+ 2303  ./a.out
+ 2304  sudo apt update
+ 2305  sudo apt upgrade
+ 2306  sudo apt-get update
+ 2307  sudo apt-get upgrade
+ 2308  clear
+ 2309  exit
+ 2310  ls
+ 2311  code .
+ 2312  1
+ 2313  2
+ 2314  3
+ 2315  4
+ 2316  5
+ 2317  10 3
+ 2318  ls
+ 2319  cd test
+ 2320  ls
+ 2321  rm gfg
+ 2322  ls
+ 2323  clear
+ 2324  ls
+ 2325  g++ gfg.cpp
+ 2326  ./a.out
+ 2327  10 3
+ 2328  ./a.out
+ 2329  10 3
+ 2330  g++ gfg.cpp
+ 2331  ./a.out
+ 2332  cd ..
+ 2333  ls
+ 2334  vim .git
+ 2335  clear
+ 2336  ls
+ 2337  vim .gitignore
+ 2338  clear
+ 2339  git status
+ 2340  git add .gitignore
+ 2341  git commit -am "gitignore updated"
+ 2342  git push
+ 2343  code .
+ 2344  git status
+ 2345  ls
+ 2346  cd Array/ArrayRotation
+ 2347  ls
+ 2348  gcc RotateArray1.cpp
+ 2349  ./a.out
+ 2350  git status
+ 2351  clear
+ 2352  ls
+ 2353  g++ arrRot2.cpp
+ 2354  ./a
+ 2355  ./a.out
+ 2356  clear
+ 2357  sudo apt-get update
+ 2358  sudo apt-get upgrade
+ 2359  sudo apt update
+ 2360  sudo apt upgrade
+ 2361  ls
+ 2362  cd Array
+ 2363  ls
+ 2364  clear
+ 2365  code .
+ 2366  ls
+ 2367  cd Documents
+ 2368  ls
+ 2369  cd Data-Structures-And-Algorithms
+ 2370  ls
+ 2371  code .
+ 2372  ls
+ 2373  cd test
+ 2374  ls
+ 2375  g++ jungglingAlgo.cpp
+ 2376  ./a.out
+ 2377  g++ jungglingAlgo.cpp
+ 2378  ./a.out
+ 2379  ls
+ 2380  cd ..
+ 2381  ls
+ 2382  cd Array
+ 2383  cd ArrayRotation
+ 2384  ls
+ 2385  g++ JugglingAlgorithm.cpp
+ 2386  ./a.out
+ 2387  ls
+ 2388  touch BigInteger.java
+ 2389  code BigInteger.java
+ 2390  ls
+ 2391  cd
+ 2392  cd codes
+ 2393  ls
+ 2394  cd j
+ 2395  clear
+ 2396  cd java-code-practice
+ 2397  ls
+ 2398  cd BigInteger
+ 2399  ls
+ 2400  rm Main.java
+ 2401  code .
+ 2402  ls
+ 2403  cd
+ 2404  clear
+ 2405  cd IdeaProjects
+ 2406  cd JavaMaster
+ 2407  LS
+ 2408  ls
+ 2409  mkdir Generics
+ 2410  ls
+ 2411  clear
+ 2412  code .
+ 2413  sudo apt update
+ 2414  sudo apt updgrade
+ 2415  sudo apt upgrade
+ 2416  zoho
+ 2417  ls
+ 2418  cd c-teach
+ 2419  code .
+ 2420  ls
+ 2421  cd assignment2
+ 2422  ls
+ 2423  gcc reqsn7.c
+ 2424  ./a.out
+ 2425  sudo apt update
+ 2426  sudo apt upgrade
+ 2427  sudo apt-get update
+ 2428  sudo apt-get upgrade
+ 2429  clear
+ 2430  exit
+ 2431  snap list
+ 2432  ls
+ 2433  clear
+ 2434  sudo apt-get update
+ 2435  sudo apt-get upgrade
+ 2436  clear
+ 2437  exit
+ 2438  ls
+ 2439  cd Documents
+ 2440  ls
+ 2441  cd Data-Structures-And-Algorithms
+ 2442  ls
+ 2443  clear
+ 2444  ls
+ 2445  code .
+ 2446  ls
+ 2447  cd Array
+ 2448  ls
+ 2449  cd ArrayRotation
+ 2450  ls
+ 2451  zsh
+ 2452  clear
+ 2453  ls
+ 2454  g++ ArrayReversalAlgorithm.cpp
+ 2455  ./a.out
+ 2456  g++ ArrayReversalAlgorithm.cpp
+ 2457  ./a.out
+ 2458  g++ ArrayReversalAlgorithm.cpp
+ 2459  ./a.out
+ 2460  g++ ArrayReversalAlgorithm.cpp
+ 2461  ./a.out
+ 2462  ls
+ 2463  cd codes
+ 2464  ls
+ 2465  cd
+ 2466  cd Documents
+ 2467  ls
+ 2468  cd Data-Structures-And-Algorithms
+ 2469  ls
+ 2470  code .
+ 2471  cd Array
+ 2472  ls
+ 2473  cd ArrayRotation
+ 2474  ls
+ 2475  g++ ArrayReversalAlgorithm.cpp
+ 2476  ./a.out
+ 2477  g++ ArrayReversalAlgorithm.cpp
+ 2478  ./a.out
+ 2479  g++ ArrayReversalAlgorithm.cpp
+ 2480  ./a.out
+ 2481  g++ ArrayReversalAlgorithm.cpp
+ 2482  ./a.out
+ 2483  g++ ArrayReversalAlgorithm.cpp
+ 2484  ./a.out
+ 2485  g++ ArrayReversalAlgorithm.cpp
+ 2486  ./a.out
+ 2487  g++ ArrayReversalAlgorithm.cpp
+ 2488  ./a.out
+ 2489  g++ ArrayReversalAlgorithm.cpp
+ 2490  ./a.out
+ 2491  g++ ArrayReversalAlgorithm.cpp
+ 2492  ./a.out
+ 2493  g++ ArrayReversalAlgorithm.cpp
+ 2494  ./a.out
+ 2495  clear
+ 2496  g++ CyclicallyRotate.cpp
+ 2497  clear
+ 2498  g++ CyclicallyRotate.cpp
+ 2499  ./a.out
+ 2500  g++ CyclicallyRotate.cpp
+ 2501  ./a.out
+ 2502  g++ CyclicallyRotate.cpp
+ 2503  ./a.out
+ 2504  g++ CyclicallyRotate.cpp
+ 2505  ./a.out
+ 2506  g++ CyclicallyRotate.cpp
+ 2507  ./a.out
+ 2508  g++ CyclicallyRotate.cpp
+ 2509  ./a.out
+ 2510  ls
+ 2511  cat < CyclicallyRotate.cpp
+ 2512  clear
+ 2513  exit
+ 2514  ls
+ 2515  cd Array
+ 2516  cd ArrayRotation
+ 2517  ls
+ 2518  clear
+ 2519  g++ CyclicallyRotate.cpp
+ 2520  ./a.out
+ 2521  g++ CyclicallyRotate.cpp
+ 2522  ./a.out
+ 2523  3 4 5 5 5
+ 2524  ./a.out
+ 2525  g++ CyclicallyRotate.cpp
+ 2526  ./a.out
+ 2527  g++ CyclicallyRotate.cpp
+ 2528  ./a.out
+ 2529  g++ CyclicallyRotate.cpp
+ 2530  ./a.out
+ 2531  g++ CyclicallyRotate.cpp
+ 2532  ./a.out
+ 2533  clear
+ 2534  ls
+ 2535  cd ..
+ 2536  ls
+ 2537  cd ..
+ 2538  ls
+ 2539  cd Binary\ Search
+ 2540  ls
+ 2541  g++ bs1.c
+ 2542  ./a.out
+ 2543  g++ bs1.c
+ 2544  ./a.out
+ 2545  g++ bs1.c
+ 2546  ./a.out
+ 2547  g++ bs1.c
+ 2548  ./a.out
+ 2549  g++ bs1.c
+ 2550  ./a.out
+ 2551  g++ bs1.c
+ 2552  ./a.out
+ 2553  sudo pat update && sudo apt upgrade
+ 2554  sudo apt update && sudo apt upgrade
+ 2555  git status
+ 2556  git add .
+ 2557  git commit -m "Codes for Interfaces"
+ 2558  git push
+ 2559  cd ..
+ 2560  ls
+ 2561  cd Inner\ Classes
+ 2562  ls
+ 2563  clear
+ 2564  ls
+ 2565  rm gcd
+ 2566  rm -r gcd
+ 2567  ls
+ 2568  clear
+ 2569  ls
+ 2570  rm -r *
+ 2571  ls
+ 2572  clear
+ 2573  cd ..
+ 2574  git status
+ 2575  git add Abstract\ Classes/ Inner\ Classes/
+ 2576  git commit -am "Programs for Abstract Classes & Inner Classes added! "
+ 2577  git push
+ 2578  clear
+ 2579  sudo apt update
+ 2580  sudo apt upgrade
+ 2581  touch file.txt
+ 2582  ls
+ 2583  sudo apt-get update
+ 2584  sudo apt-get upgrade
+ 2585  exit
+ 2586  ls
+ 2587  cd Documents
+ 2588  ls
+ 2589  cd Data-Structures-And-Algorithms
+ 2590  ls
+ 2591  git status
+ 2592  cd Binary\ Search
+ 2593  ls
+ 2594  cd ..
+ 2595  ls
+ 2596  code .
+ 2597  ls
+ 2598  cd Binary\ Search
+ 2599  ls
+ 2600  gcc bs1.c
+ 2601  ./a.out
+ 2602  gcc bs1.c
+ 2603  ./a.out
+ 2604  gcc bs1.c
+ 2605  ./a.out
+ 2606  gcc bs1.c
+ 2607  ./a.out
+ 2608  gcc bs1.c
+ 2609  ./a.out
+ 2610  gcc bs1.c
+ 2611  ./a.out
+ 2612  gcc bs1.c
+ 2613  ./a.out
+ 2614  gcc bs1.c
+ 2615  ./a.out
+ 2616  gcc bs1.c
+ 2617  ./a.out
+ 2618  gcc bs1.c
+ 2619  ./a.out
+ 2620  gcc bs1.c
+ 2621  ./a.out
+ 2622  gcc bs1.c
+ 2623  ./a.out
+ 2624  gcc bs1.c
+ 2625  ./a.out
+ 2626  gcc bs1.c
+ 2627  ./a.out
+ 2628  gcc bs1.c
+ 2629  ./a.out
+ 2630  gcc bs1.c
+ 2631  ./a.out
+ 2632  ls
+ 2633  clear
+ 2634  ls
+ 2635  cd codes
+ 2636  ls
+ 2637  cd
+ 2638  cd Documents/
+ 2639  ls
+ 2640  cd Data-Structures-And-Algorithms/
+ 2641  ls
+ 2642  code .
+ 2643  ls
+ 2644  cd Array
+ 2645  cd ..
+ 2646  ls
+ 2647  cd Binary\ Search
+ 2648  ls
+ 2649  clear
+ 2650  ls
+ 2651  g++ bs1.cpp
+ 2652  ./a.out
+ 2653  g++ bs1.cpp
+ 2654  ./a.out
+ 2655  g++ bs1.cpp
+ 2656  ./a.out
+ 2657  g++ bs1.cpp
+ 2658  ./a.out
+ 2659  g++ bs1.cpp
+ 2660  ./a.out
+ 2661  clear
+ 2662  g++ bs1.cpp
+ 2663  ./a.out
+ 2664  g++ bs1.cpp
+ 2665  ./a.out
+ 2666  geofetch
+ 2667  clear
+ 2668  wsl
+ 2669  cd
+ 2670  sudo apt update
+ 2671  sudo apt upgrade
+ 2672  sudo apt-get update && sudo apt-get upgrade
+ 2673  clear
+ 2674  snap 
+ 2675  snap list
+ 2676  snap list update
+ 2677  clear
+ 2678  snap refresh
+ 2679  exit
+ 2680  ls
+ 2681  cd Do
+ 2682  cd Documents
+ 2683  ls
+ 2684  cd Data-Structures-And-Algorithms
+ 2685  ls
+ 2686  code .
+ 2687  ls
+ 2688  clear
+ 2689  ls
+ 2690  cd Binary\ Search
+ 2691  ls
+ 2692  g++ bs1.cpp
+ 2693  ./a.out
+ 2694  g++ bs1.cpp
+ 2695  ./a.out
+ 2696  g++ bs1.cpp
+ 2697  ./a.out
+ 2698  ls
+ 2699  g++ bs2.cpp
+ 2700  ./a.out
+ 2701  36
+ 2702  ./a.out
+ 2703  valgrind ./a.out
+ 2704  ./a.out
+ 2705  g++ bs2.cpp
+ 2706  ./a.out
+ 2707  g++ bs2.cpp
+ 2708  ./a.out
+ 2709  g++ bs2.cpp
+ 2710  ./a.out
+ 2711  g++ bs2.cpp
+ 2712  ./a.out
+ 2713  g++ bs2.cpp
+ 2714  ./a.out
+ 2715  g++ bs2.cpp
+ 2716  ./a.out
+ 2717  clear
+ 2718  ls
+ 2719  cd ..
+ 2720  ls
+ 2721  cd Array/ArrayRotation
+ 2722  ls
+ 2723  g++ SearchElementInSorted\&RotatedArray.cpp
+ 2724  ./a.out
+ 2725  g++ SearchElementInSorted\&RotatedArray.cpp
+ 2726  ./a.out
+ 2727  g++ SearchElementInSorted\&RotatedArray.cpp
+ 2728  ./a.out
+ 2729  clear
+ 2730  ls
+ 2731  cd Array
+ 2732  ls
+ 2733  cd ArrayRotation
+ 2734  ls
+ 2735  cd FindMinimumElement
+ 2736  ls
+ 2737  cd FindMin
+ 2738  ls
+ 2739  code .
+ 2740  ls
+ 2741  pwd
+ 2742  ls
+ 2743  clear
+ 2744  ls
+ 2745  cd ..
+ 2746  ls
+ 2747  exit
+ 2748  clear
+ 2749  ls
+ 2750  git status
+ 2751  git add .gitignore
+ 2752  git push
+ 2753  git commit -am "gitignore Modified"
+ 2754  git push
+ 2755  git status
+ 2756  git add .
+ 2757  git commit -am "Arrays Added! "
+ 2758  git push
+ 2759  ls
+ 2760  cd codes
+ 2761  ls
+ 2762  cd cpp-code-practice
+ 2763  ls
+ 2764  cd STL
+ 2765  ls
+ 2766  cd
+ 2767  cd codes
+ 2768  ls
+ 2769  cd cpp-code-practice
+ 2770  ls
+ 2771  cd STL
+ 2772  ls
+ 2773  cd Containers
+ 2774  ls
+ 2775  cd ..
+ 2776  ls
+ 2777  cd Valarray
+ 2778  ls
+ 2779  cd ..
+ 2780  ls
+ 2781  cd Algorithms
+ 2782  ls
+ 2783  cd ..
+ 2784  ls
+ 2785  cd ..
+ 2786  ls
+ 2787  cd test
+ 2788  ls
+ 2789  clear
+ 2790  ls
+ 2791  code .
+ 2792  ls
+ 2793  g++ LeetCode.cpp
+ 2794  ./a.out
+ 2795  valgrind ./a.out
+ 2796  g++ LeetCode.cpp
+ 2797  valgrind ./a.out
+ 2798  ./a.out
+ 2799  valgrind ./a.out
+ 2800  g++ LeetCode.cpp
+ 2801  ./a.out
+ 2802  cler
+ 2803  clear
+ 2804  ls
+ 2805  g++ LeetCode.cpp
+ 2806  ./a.out
+ 2807  g++ LeetCode.cpp
+ 2808  ./a.out
+ 2809  g++ LeetCode.cpp
+ 2810  ./a.out
+ 2811  g++ LeetCode.cpp
+ 2812  ./a.out
+ 2813  g++ LeetCode.cpp
+ 2814  ./a.out
+ 2815  g++ LeetCode.cpp
+ 2816  ./a.out
+ 2817  g++ LeetCode.cpp
+ 2818  ./a.out
+ 2819  g++ LeetCode.cpp
+ 2820  ./a.out
+ 2821  g++ LeetCode.cpp
+ 2822  ./a.out
+ 2823  g++ LeetCode.cpp
+ 2824  ./a.out
+ 2825  g++ LeetCode.cpp
+ 2826  ./a.out
+ 2827  g++ LeetCode.cpp
+ 2828  ./a.out
+ 2829  g++ LeetCode.cpp
+ 2830  ./a.out
+ 2831  g++ LeetCode.cpp
+ 2832  ./a.out
+ 2833  g++ LeetCode.cpp
+ 2834  ./a.out
+ 2835  g++ LeetCode.cpp
+ 2836  ./a.out
+ 2837  g++ LeetCode.cpp
+ 2838  ./a.out
+ 2839  g++ LeetCode.cpp
+ 2840  ./a.out
+ 2841  ls
+ 2842  init 0
+ 2843  ls
+ 2844  clear
+ 2845  sudo apt update
+ 2846  sudo apt upgrade
+ 2847  sudo apt-get upgrade
+ 2848  sudo apt-get update
+ 2849  clear
+ 2850  exit
+ 2851  ls
+ 2852  cd ..
+ 2853  ls
+ 2854  cd ..
+ 2855  ls
+ 2856  git status
+ 2857  git add .
+ 2858  git commit -am "Generics Added! "
+ 2859  git push
+ 2860  ls
+ 2861  cd IdeaProjects
+ 2862  ls
+ 2863  cd Java
+ 2864  cd ..
+ 2865  cd Java
+ 2866  cd ..
+ 2867  JavaMaster
+ 2868  ls
+ 2869  clear
+ 2870  ls
+ 2871  ls -al
+ 2872  vim .gitignore
+ 2873  clear
+ 2874  git status
+ 2875  git add .
+ 2876  git commit -am "gitignore file removed"
+ 2877  git push
+ 2878  clear
+ 2879  whetr
+ 2880  weathr
+ 2881  wethr
+ 2882  ls
+ 2883  clear
+ 2884  ls
+ 2885  clear
+ 2886  sudo apt-get update
+ 2887  sudo apt-get upgrade
+ 2888  sudo apt update
+ 2889  sudo apt upgrade
+ 2890  clear
+ 2891  exit
+ 2892  sudo update dist
+ 2893  sudo dist-upgrade
+ 2894  sudo apt-get dist-upgrade
+ 2895  clear
+ 2896  sudo apt full-upgrade
+ 2897  clear
+ 2898  ls
+ 2899  cd codes
+ 2900  ls
+ 2901  cd
+ 2902  cd Documents
+ 2903  ls
+ 2904  cd c
+ 2905  cd cp
+ 2906  ls
+ 2907  mkdir Validate_Square
+ 2908  cd Validate_Square
+ 2909  ls
+ 2910  clear
+ 2911  code .
+ 2912  ls
+ 2913  g++ vs1.cpp
+ 2914  ./a.out
+ 2915  g++ vs1.cpp
+ 2916  ./a.out
+ 2917  g++ vs1.cpp
+ 2918  ./a.out
+ 2919  g++ vs1.cpp
+ 2920  ./a.out
+ 2921  g++ vs1.cpp
+ 2922  ./a.out
+ 2923  g++ vs1.cpp
+ 2924  ./a.out
+ 2925  g++ vs1.cpp
+ 2926  ./a.out
+ 2927  g++ vs1.cpp
+ 2928  ./a.out
+ 2929  ls
+ 2930  cd ..
+ 2931  ls
+ 2932  cd ..
+ 2933  ls
+ 2934  cd ..
+ 2935  cd codes
+ 2936  ls
+ 2937  cd cpp-code-practice
+ 2938  ls
+ 2939  clear
+ 2940  ls
+ 2941  mkdir codeforces
+ 2942  ls
+ 2943  cd codeforces
+ 2944  ls
+ 2945  touch SquareProblem.cpp
+ 2946  code .
+ 2947  ls
+ 2948  g++ SquareProblem.cpp
+ 2949  ./a.out
+ 2950  g++ SquareProblem.cpp
+ 2951  ./a.out
+ 2952  g++ SquareProblem.cpp
+ 2953  ./a.out
+ 2954  g++ SquareProblem.cpp
+ 2955  ./a.out
+ 2956  g++ SquareProblem.cpp
+ 2957  ./a.out
+ 2958  g++ SquareProblem.cpp
+ 2959  ./a.out
+ 2960  g++ SquareProblem.cpp
+ 2961  ./a.out
+ 2962  ls
+ 2963  cd ..
+ 2964  ls
+ 2965  cd codeforces
+ 2966  ls
+ 2967  touch luckyDivision.cpp
+ 2968  code .
+ 2969  ls
+ 2970  g++ luckyDivision.cpp
+ 2971  ./a.out
+ 2972  999
+ 2973  g++ luckyDivision.cpp
+ 2974  ./a.out
+ 2975  ls
+ 2976  clear
+ 2977  sudo apt-get update
+ 2978  sudo apt-get upgrade
+ 2979  clear
+ 2980  exit
+ 2981  cd Desktop
+ 2982  clear
+ 2983  ls
+ 2984  cd 
+ 2985  cd codes
+ 2986  cd cpp-code-practice
+ 2987  ls
+ 2988  clear
+ 2989  ls
+ 2990  mkdir hackerearth
+ 2991  ls
+ 2992  cd hackerearth
+ 2993  ls
+ 2994  clear
+ 2995  touch maxVal.cpp
+ 2996  code .
+ 2997  clear
+ 2998  ls
+ 2999  g++ maxVal.cpp
+ 3000  ./a.out
+ 3001  g++ maxVal.cpp
+ 3002  ./a.out
+ 3003  g++ maxVal.cpp
+ 3004  ./a.out
+ 3005  g++ maxVal.cpp
+ 3006  ./a.out
+ 3007  g++ maxVal.cpp
+ 3008  ./a.out
+ 3009  g++ maxVal.cpp
+ 3010  ./a.out
+ 3011  g++ maxVal.cpp
+ 3012  ./a.out
+ 3013  g++ maxVal.cpp
+ 3014  ./a.out
+ 3015  g++ maxVal.cpp
+ 3016  ./a.out
+ 3017  gcc test.c
+ 3018  clear
+ 3019  gcc test.c
+ 3020  clear
+ 3021  gcc test.c
+ 3022  ./a.out
+ 3023  gcc test.c
+ 3024  g++ common.cpp
+ 3025  ./a.out
+ 3026  using namespace std;
+ 3027  long long SimilarElementsPairs (vector<int> A,int N) {
+ 3028  int main() {\n\n    ios::sync_with_stdio(0);\n    cin.tie(0);\n    int N;\n    cin >> N;\n    vector<int> A(N);\n    for(int i_A=0; i_A<N; i_A++)
+ 3029  clear
+ 3030  g++ common.cpp
+ 3031  ./a.out
+ 3032  g++ common.cpp
+ 3033  ./a.out
+ 3034  g++ common.cpp
+ 3035  ./a.out
+ 3036  clear
+ 3037  g++ common.cpp
+ 3038  ./a.out
+ 3039  g++ common.cpp
+ 3040  ./a.out
+ 3041  ls
+ 3042  ./a.out
+ 3043  g++ common.cpp
+ 3044* ls
+ 3045* cd ..
+ 3046* ls
+ 3047* cd Array
+ 3048* ls
+ 3049* cd ..
+ 3050* grep -i "Array\n"
+ 3051* grep -i "Array" *\n"
+ 3052* grep -r "Array" *
+ 3053* grep -r "Array" || "array" *
+ 3054* clear
+ 3055* ls
+ 3056* cd hackerearth
+ 3057* ls
+ 3058  g++ 2dArr.cpp
+ 3059  ./a.out
+ 3060  g++ 2dArr.cpp
+ 3061  3
+ 3062  ./a.out
+ 3063* grep -r "2D Array" *
+ 3064* grep -h
+ 3065* grep --help
+ 3066* grep -ri "2d Array" *
+ 3067* grep -ri "Array" && "2d" *
+ 3068  g++ 2dArr.cpp
+ 3069  ./a.out
+ 3070  g++ 2dArr.cpp
+ 3071  clear
